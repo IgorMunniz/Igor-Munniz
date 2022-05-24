@@ -1,5 +1,4 @@
 # Igor-Munniz
-
-🎓- Estudante de Análise e Desenvolvimento de Sistema
-💻- Estudando Desenvolvimento em Front-End
-🧍🏾‍♂️ - Ele/Dele 
+-🎓  Estudante de Analise e Desenvolvimento de Sistema 
+-💻 
+Estudando Desenvolvimemnto Web- HTML, CSS e JavaScript
